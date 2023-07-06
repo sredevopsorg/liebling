@@ -29,7 +29,7 @@
   "devDependencies": {
     "7zip": "0.0.6",
     "@babel/preset-react": "^7.14.5",
-    "@tryghost/admin-api": "^1.4.0",
+    "@tryghost/admin-api": "^1.13.7",
     "browser-sync": "^2.27.11",
     "browser-sync-webpack-plugin": "^2.3.0",
     "concurrently": "^6.0.0",
